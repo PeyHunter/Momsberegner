@@ -14,4 +14,9 @@ public class MomsTaligen {
         return (int) (m * 20);
     }
 
+    public String toString()
+    {
+        return "moms toSting";
+    }
+
 }
