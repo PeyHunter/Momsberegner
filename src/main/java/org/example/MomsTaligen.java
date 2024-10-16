@@ -11,7 +11,8 @@ public class MomsTaligen {
 
     public int moms(int m)
     {
-        return (int) (m * 20);
+        moms = m;
+        return (int) (m * 0.20);
     }
 
     public String toString()
@@ -19,4 +20,9 @@ public class MomsTaligen {
         return "moms toSting";
     }
 
+    public int subtotalAfTotal(int s)
+    {
+        subTotal = s;
+        return (int) (s / 1.25);
+    }
 }

@@ -13,9 +13,10 @@ public class Main {
 
         System.out.println(momsTabel);
 
-        int result = taligen.moms(20);
+        int momsResult = taligen.moms(10000);
 
-        System.out.println(result);
+
+        System.out.println(momsResult);
 
 
     }
