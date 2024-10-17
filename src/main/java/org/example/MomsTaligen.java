@@ -1,4 +1,5 @@
 package org.example;
+import java.util.*;
 
 public class MomsTaligen {
 
@@ -6,8 +7,10 @@ public class MomsTaligen {
     private int subTotal;
     private int total;
 
-    public MomsTaligen(){}
 
+
+
+    public MomsTaligen(){}
 
     public int moms(int m)
     {
