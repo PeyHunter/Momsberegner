@@ -10,7 +10,7 @@ public class MomsTaligen {
 
 
 
-   /* public MomsTaligen(){}
+    public MomsTaligen(){}
 
     public int moms(int m)
     {
@@ -21,7 +21,7 @@ public class MomsTaligen {
     public String toString()
     {
         return "moms toSting";
-    }*/
+    }
 
     public int subtotalAfTotal(int s)
     {
